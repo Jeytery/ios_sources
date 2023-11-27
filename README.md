@@ -23,7 +23,8 @@ sites \
 https://sparrowcode.io \
 https://www.swiftjectivec.com/ \
 https://www.pointfree.co/  \
-https://fuckingswiftui.com/
+https://fuckingswiftui.com/ \
+https://swiftology.io/
 
 github \
 https://github.com/sparrowcode \
